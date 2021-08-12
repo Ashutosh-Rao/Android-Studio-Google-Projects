@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Ashutosh Rao</string>
+    <string name="avatar">avatar_picture</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="biotext">
+    Hey my name is Ashutosh\n
+    I study in PES University\n
+    This is an about me app that I\'ve made \n
+    Im learning android app development\n
+    .\n
+    .\n
+    .\n
+    .\n
+    .\n
+    .\n
+    .\n
+    .\n
+    .\n
+    </string>
+    <string name="done">done</string>
+</resources>
